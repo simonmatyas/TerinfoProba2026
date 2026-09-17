@@ -1,4 +1,5 @@
-# TerinfoProba2026
+# Térinformatikai alkalmazások Proba2026
+
 idei első bemutató repozitórium
 ## idei tanóráim
 
