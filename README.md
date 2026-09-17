@@ -6,7 +6,7 @@ idei első bemutató repozitórium
 * Fotogrammetria 2
 * Mérnökgeodézia
 * Nagyméretarányú 2
-* Felsőgeodézia
+* Felsőgeodézia sorrend
 
 
 ##Tantermek
