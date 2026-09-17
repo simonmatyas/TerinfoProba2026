@@ -3,11 +3,11 @@
 idei első bemutató repozitórium
 ## idei tanóráim
 
-* Térinformatikai alkalmazások
+* Felsőgeodézia
 * Fotogrammetria 2
 * Mérnökgeodézia
 * Nagyméretarányú 2
-* Felsőgeodézia
+* Térinformatikai alkalmazások
 
 
 ##Tantermek
