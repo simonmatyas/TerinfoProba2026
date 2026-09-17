@@ -8,9 +8,11 @@ idei első bemutató repozitórium
 * Nagyméretarányú 2
 * Felsőgeodézia
 
+
 ##Tantermek
 * 4-es terem
 * GT labor
+
 
 ##Kezdés
 * Hétfő 12.00
